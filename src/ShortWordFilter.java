@@ -1,3 +1,7 @@
+/**
+ * ShortWordFilter.java - Filter implementation that accepts strings with length < 5
+ * Name: Tika Khadka
+ */
 public class ShortWordFilter implements Filter {
     @Override
     public boolean accept(Object x) {

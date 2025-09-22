@@ -1,0 +1,1 @@
+My name is Tika Khadka. This file contains words of various lengths. Short words: cat, dog, fox, run, jump, ohio, go, be, I, a, we, he, she. Long words: programming, interface, rectangle, perimeter, implementation, cincinnati.

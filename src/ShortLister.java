@@ -1,3 +1,10 @@
+/**
+ * ShortLister.java - Main program that uses ShortWordFilter to display short words from a text file
+ * Name: Tika Khadka
+ * 
+ * INPUT: User selects a text file through JFileChooser dialog
+ * OUTPUT: Console display of all short words found with their lengths and total count
+ */
 import javax.swing.*;
 import java.io.*;
 import java.util.*;
